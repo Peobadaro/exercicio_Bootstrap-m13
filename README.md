@@ -1,6 +1,6 @@
-# Projeto Bootstrap
+# Joola Pickleball Store
 
-Este é um projeto de exemplo utilizando Bootstrap 5 para criar uma página responsiva com navbar, carousel e cards.
+Um site de e-commerce dedicado a equipamentos de Pickleball, inspirado no design da Joola.
 
 ## Tecnologias Utilizadas
 - HTML5
@@ -8,6 +8,7 @@ Este é um projeto de exemplo utilizando Bootstrap 5 para criar uma página resp
 - Git
 
 ## Estrutura do Projeto
-- Navbar responsivo
-- Carousel de imagens
-- Grid de cards responsivos 
+- Navbar responsivo com menu de categorias
+- Carousel de banners promocionais
+- Grid de produtos em destaque
+- Seções de categorias principais 
